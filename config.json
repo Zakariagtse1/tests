@@ -1,0 +1,10 @@
+{
+  "token": "Put_Your_Discord_Bot_Token_Here",
+  "prefix": "$",
+  "allowedRoles": [
+    "Change_This_To_the_Roles_You_Want"
+  ],
+  "allowedChannels": [
+    "Change_Me_To_the_Channel_You_Want" 
+  ]
+}
